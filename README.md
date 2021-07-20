@@ -9,7 +9,7 @@
 ✔️ Education\
 ✔️ Contact me
 
-To view a live example, **[click here](https://nabia-sheikh.netlify.app)**
+To view a live example, **[click here](https://nabiasheikh.netlify.app)**
 
 # Technologies used 🛠️
 
