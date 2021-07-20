@@ -39,7 +39,7 @@ const socialMediaLinks = [
   },
   // {
   //   name: "LinkedIn",
-  //   link: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
+  //   link: "https://www.linkedin.com/in//",
   //   fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
   //   backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   // },
@@ -556,7 +556,7 @@ const contactPageData = {
     // title: "Blogs",
     // subtitle:
     //   "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    // link: "https://ashutoshhathidara.wordpress.com",
+    // link: "https://h.wordpress.com",
     // avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
