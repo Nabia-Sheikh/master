@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 export default class ProjectsImg extends Component {
   render() {
-    const theme = this.props.theme;
+    // const theme = this.props.theme;
     return (
       <svg
         id="ea02ba7f-3a41-458b-a9ee-53c1e5920f6c"
